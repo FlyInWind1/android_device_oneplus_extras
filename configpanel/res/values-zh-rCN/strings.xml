@@ -29,20 +29,49 @@
     <string name="oclick_fence_summary">当不在手机附近时发出警报</string>
     <string name="oclick_disconnect_alert_title">超出范围警报</string>
     <string name="oclick_disconnect_alert_summary">当到达外面时发出警报</string>
+
     <string name="alert_category_title">警报</string>
     <string name="action_category_title">操作</string>
+
     <string name="oclick_locator_notification_title">O-Click 电话定位器</string>
     <string name="oclick_locator_notification_text">正在播放定位器警报。点击以停止</string>
     <string name="oclick_notification_title_connected">O-Click 已连接</string>
     <string name="oclick_notification_title_disconnected">O-Click 已断开连接</string>
     <string name="oclick_notification_content_disconnected">按下 O-Click 按钮重新连接</string>
+
     <string name="notification_slider_category_title">三段式通知滑钮</string>
     <string name="notification_slider_selection_dialog_title">动作</string>
     <string name="notification_slider_top_position">顶部位置</string>
     <string name="notification_slider_middle_position">中间位置</string>
     <string name="notification_slider_bottom_position">底部位置</string>
-    <string name="notification_slider_mode_total_silence">总是静音</string>
+    <string name="notification_slider_mode_total_silence">完全静音</string>
+    <string name="notification_slider_mode_alarms_only">仅闹钟</string>
     <string name="notification_slider_mode_priority_only">仅限优先</string>
-    <string name="notification_slider_mode_none">无</string>
+    <string name="notification_slider_mode_none">所有</string>
     <string name="notification_slider_mode_vibration">振动</string>
+
+    <string name="notification_slider_usage_title">三段式开关作用</string>
+    <string name="notification_slider_for_notification">通知</string>
+    <string name="notification_slider_for_flashlight">手电筒</string>
+    <string name="notification_slider_for_brightness">屏幕亮度</string>
+    <string name="notification_slider_for_rotation">屏幕旋转</string>
+    <string name="notification_slider_for_ringer">铃声</string>
+    <string name="notification_slider_for_notification_ringer">通知和铃声</string>
+
+    <string name="notification_slider_flashlight_off">关闭</string>
+    <string name="notification_slider_flashlight_on">开启</string>
+    <string name="notification_slider_flashlight_blink">闪烁</string>
+
+    <string name="notification_slider_brightness_auto">自动</string>
+    <string name="notification_slider_brightness_brightest">最亮</string>
+    <string name="notification_slider_brightness_darkest">最暗</string>
+
+    <string name="notification_slider_rotation_auto">自动</string>
+    <string name="notification_slider_rotation_portrait">竖向</string>
+    <string name="notification_slider_rotation_landscape_90">横向 (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">横向 (270°)</string>
+
+    <string name="notification_slider_ringer_normal">普通</string>
+    <string name="notification_slider_ringer_vibrate">震动</string>
+    <string name="notification_slider_ringer_silent">静音</string>
 </resources>
